@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name        SICP pager
-// @namespace   http://diveintomark.org/projects/greasemonkey/
 // @description pager script for online SICP (http://mitpress.mit.edu/sicp/full-text/book/book.html)
 // @include     http://mitpress.mit.edu/sicp/full-text/book/*
 // ==/UserScript==
 // author       outZider
-// version      0.1.5
+// version      0.1.6
 // Released under the GPL license
 // http://www.gnu.org/copyleft/gpl.html
 (function() {
